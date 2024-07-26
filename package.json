@@ -1,0 +1,25 @@
+{
+  "name": "puppeteer-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test1": "jest",
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LevVolkov/Puppeteer.git"
+  },
+  "author": "Lev Volkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevVolkov/Puppeteer/issues"
+  },
+  "homepage": "https://github.com/LevVolkov/Puppeteer#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.0.1",
+    "puppeteer": "^22.12.1"
+  }
+}
